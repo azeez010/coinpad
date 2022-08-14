@@ -10,4 +10,4 @@ var toAddress = {
     "1": ""
 };
 
-var supportedChains = [1, 56];
+var supportedChains = [97, 56];
